@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rebuilds>
+  <rebuild rebuild_id="tgc_test" class="TGCore:ExampleRebuild">
+    <template><![CDATA[<div class="block-row">
+	Test custom variables from example ExampleRebuild -> $test: {$test}
+</div>
+<div class="block-row">
+	Warning: This rebuild not jobing!
+</div>]]></template>
+  </rebuild>
+</rebuilds>

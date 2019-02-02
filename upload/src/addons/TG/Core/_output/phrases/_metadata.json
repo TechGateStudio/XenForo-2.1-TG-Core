@@ -1,0 +1,14 @@
+{
+    "admin_navigation.TGCoreAddons.txt": {
+        "global_cache": false,
+        "version_id": 1010010,
+        "version_string": "1.1.0 Alpha",
+        "hash": "2e53dc1a4dbfefc834e9fd7f9bcc4d71"
+    },
+    "admin_navigation.TGCoreOptions.txt": {
+        "global_cache": false,
+        "version_id": 1010010,
+        "version_string": "1.1.0 Alpha",
+        "hash": "dae8ace18bdcbcc6ae5aece263e14fe8"
+    }
+}

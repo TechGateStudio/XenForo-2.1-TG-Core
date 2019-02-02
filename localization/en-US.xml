@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language title="English (US)" date_format="M j, Y" time_format="g:i A" currency_format="{symbol}{value}" week_start="0" decimal_point="." thousands_separator="," label_separator=":" comma_separator=", " ellipsis="…" parenthesis_open="(" parenthesis_close=")" language_code="en-US" text_direction="LTR" addon_id="TG/Core" base_version_id="1010010" export_version="2">
+  <phrase title="admin_navigation.TGCRebuildCaches" addon_id="TG/Core" version_id="1000111" version_string="1.0.1 Alpha 1"><![CDATA[Rebuild caches]]></phrase>
+  <phrase title="admin_navigation.TGCTools" addon_id="TG/Core" version_id="1000111" version_string="1.0.1 Alpha 1"><![CDATA[Tools]]></phrase>
+  <phrase title="admin_navigation.TGCoreAddons" addon_id="TG/Core" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[TechGate Add-Ons]]></phrase>
+  <phrase title="admin_navigation.TGCoreOptions" addon_id="TG/Core" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Options]]></phrase>
+  <phrase title="admin_navigation.techgateCore" addon_id="TG/Core" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[TechGate | Core]]></phrase>
+  <phrase title="option.visableTGAddOns" addon_id="TG/Core" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Display TG plugins in the general list of plugins?]]></phrase>
+  <phrase title="option_explain.visableTGAddOns" addon_id="TG/Core" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Allows you to hide / show all TG plugins in the general list of XenForo plugins.]]></phrase>
+  <phrase title="option_group.TGCore" addon_id="TG/Core" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[TG | Core]]></phrase>
+  <phrase title="option_group_description.TGCore" addon_id="TG/Core" version_id="1000112" version_string="1.0.1 Alpha 2"><![CDATA[TechGate kernel settings.]]></phrase>
+  <phrase title="tgc_add_rebuild" addon_id="TG/Core" version_id="1000111" version_string="1.0.1 Alpha 1"><![CDATA[Add rebuilding cache]]></phrase>
+  <phrase title="tgc_addon_disabled" addon_id="TG/Core" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Disabled]]></phrase>
+  <phrase title="tgc_addon_installable" addon_id="TG/Core" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Installable]]></phrase>
+  <phrase title="tgc_addon_istalled" addon_id="TG/Core" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Installed]]></phrase>
+  <phrase title="tgc_addon_upgradeable" addon_id="TG/Core" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Upgradeable]]></phrase>
+  <phrase title="tgc_confirm_action_delete" addon_id="TG/Core" version_id="1000111" version_string="1.0.1 Alpha 1"><![CDATA[Confirm delete]]></phrase>
+  <phrase title="tgc_confirm_that_you_action_to_delete" addon_id="TG/Core" version_id="1000111" version_string="1.0.1 Alpha 1"><![CDATA[Please confirm your deletion action]]></phrase>
+  <phrase title="tgc_disc_total_space" addon_id="TG/Core" version_id="1000214" version_string="1.0.2 Alpha 4"><![CDATA[Disc total space]]></phrase>
+  <phrase title="tgc_disk_free_space" addon_id="TG/Core" version_id="1000214" version_string="1.0.2 Alpha 4"><![CDATA[Disc free space]]></phrase>
+  <phrase title="tgc_edit_rebuild" addon_id="TG/Core" version_id="1000111" version_string="1.0.1 Alpha 1"><![CDATA[Edit rebuilding cache]]></phrase>
+  <phrase title="tgc_gender" addon_id="TG/Core" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Gender]]></phrase>
+  <phrase title="tgc_gender_female" addon_id="TG/Core" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Female]]></phrase>
+  <phrase title="tgc_gender_male" addon_id="TG/Core" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Male]]></phrase>
+  <phrase title="tgc_help_custom_variables" addon_id="TG/Core" version_id="1000113" version_string="1.0.1 Alpha 3"><![CDATA[You can also add a static <code><em><b>rebuildViewParams</b></em></code> method to your rebuilder, which allows you to add variables to your template below.]]></phrase>
+  <phrase title="tgc_list_rebuild_cache_empty" addon_id="TG/Core" version_id="1000111" version_string="1.0.1 Alpha 1"><![CDATA[The cache rebuild list is empty.]]></phrase>
+  <phrase title="tgc_option_rebuild_are_missing" addon_id="TG/Core" version_id="1000111" version_string="1.0.1 Alpha 1"><![CDATA[Rebuild settings are missing!]]></phrase>
+  <phrase title="tgc_rebuild_description.test" addon_id="TG/Core" version_id="1000113" version_string="1.0.1 Alpha 3"><![CDATA[This rebuilder for example and this rebuild not jobing.]]></phrase>
+  <phrase title="tgc_rebuild_id" addon_id="TG/Core" version_id="1000111" version_string="1.0.1 Alpha 1"><![CDATA[Rebuilding cache unique name]]></phrase>
+  <phrase title="tgc_rebuild_template_hint" addon_id="TG/Core" version_id="1000111" version_string="1.0.1 Alpha 1"><![CDATA[This template may contain additional settings for rebuilding the cache.]]></phrase>
+  <phrase title="tgc_rebuild_title.test" addon_id="TG/Core" version_id="1000113" version_string="1.0.1 Alpha 3"><![CDATA[Test]]></phrase>
+</language>
